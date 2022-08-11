@@ -13,7 +13,6 @@ Memory-game was created as solution to the [task](https://github.com/rolling-sco
 - after the game ends you can watch real painting and read short article about it by clicking on the corresponding card.
 
 
-- ![image](https://user-images.githubusercontent.com/81522781/184121425-709d5476-af93-4d2d-9149-e0939996636d.png)
 - ![image](https://user-images.githubusercontent.com/81522781/184121484-5a860f0e-9934-4f84-8625-a697d4d4e03a.png)
 - ![image](https://user-images.githubusercontent.com/81522781/184121531-6277c883-9a8d-4aaf-8513-4ec34f3a09fe.png)
 - ![image](https://user-images.githubusercontent.com/81522781/184121618-8e06abb5-8308-4086-8a7e-35a165103de8.png)
